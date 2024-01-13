@@ -1,0 +1,71 @@
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} */
+
+/* li {
+  color: blueviolet;
+}
+
+input[type='email'] {
+  padding: 30px;
+}
+
+label[for='username'] {
+  color: red;
+} */
+
+/* section p {
+  background-color: cadetblue;
+} */
+
+/* section > p {
+  background-color: burlywood;
+} */
+
+/* section > div {
+  color: red;
+  padding: 20px;
+} */
+
+/* section {
+  color: lightblue;
+  font-size: 30px;
+} */
+
+/* h1 + p {
+  background-color: darkcyan;
+} */
+
+/* h2 ~ p {
+  color: chocolate;
+} */
+
+/* div {
+  width: 150px;
+  height: 100px;
+  background-color: aqua;
+  margin: 2rem;
+  padding: 10px;
+} */
+
+span {
+  width: 100px;
+  height: 30px;
+  background-color: rgb(209, 145, 49);
+  margin: 20px;
+  padding: 20px;
+  display: inline-block;
+}
+
+span.vip {
+  background-color: aquamarine;
+  /* visibility: hidden; */
+  display: none;
+}
+
+/* ul > li {
+  display: inline-block;
+  margin: 0 10px;
+} */
