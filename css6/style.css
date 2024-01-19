@@ -1,0 +1,195 @@
+/* * {
+  padding: 0;
+  margin: 0;
+}
+
+p {
+  margin: 20px;
+} */
+
+/* p:active {
+  color: red;
+  background-color: black;
+} */
+
+/* p:hover {
+  background-color: aqua;
+}
+
+div {
+  width: 200px;
+  height: 200px;
+  background-color: bisque;
+}
+
+div:hover + button {
+  border-radius: 50%;
+  background-color: aqua;
+} */
+
+/* a:visited {
+  color: green;
+} */
+
+/* input:checked + button {
+  background-color: aquamarine;
+} */
+/* 
+p:first-child {
+  background-color: red;
+} */
+
+/* p:nth-child(3) {
+  background-color: black;
+} */
+
+/* p:nth-of-type(4) {
+  background-color: red;
+} */
+
+/* ul li:nth-of-type(2n) {
+  background-color: pink;
+}
+
+ul li:nth-of-type(2n + 1) {
+  background-color: gray;
+} */
+
+/* ul li:nth-of-type(even) {
+  background-color: pink;
+}
+
+ul li:nth-of-type(odd) {
+  background-color: gray;
+}
+
+.item {
+  color: red;
+} */
+
+/* p:not(.para) {
+  background-color: red;
+} */
+
+/* p::after {
+  content: 'hello';
+  color: aqua;
+}
+
+p::before {
+  content: 'bye';
+  background-color: green;
+} */
+
+/* overlay */
+/* 
+p::first-line {
+  background-color: red;
+}
+
+p::selection {
+  background-color: aqua;
+}
+
+label::after {
+  content: '*';
+  color: red;
+  font-size: 30px;
+} */
+
+/* p {
+  color: blue;
+}
+#ptag {
+  color: green;
+}
+
+p.para {
+  color: red;
+} */
+
+/* typography */
+
+/* layout */
+
+/* section {
+  color: blueviolet;
+  font-size: 20px;
+  padding: 2rem;
+}
+
+div {
+  padding: inherit;
+  margin: 20px;
+}
+
+p {
+  margin: inherit;
+} */
+
+/* input:checked + button {
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  background-color: red;
+} */
+/* 
+.item1 {
+  width: 20px;
+  height: 300px;
+  background-color: green;
+  position: relative;
+  top: 400px;
+  left: 300px;
+}
+
+.item1::after {
+  content: '';
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  background-color: lightgreen;
+  border-top-right-radius: 50px;
+  border-bottom-left-radius: 50px;
+  position: absolute;
+  top: 70%;
+  left: -40px;
+}
+
+.item1::before {
+  content: '';
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  background-color: lightgreen;
+  border-top-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+  position: absolute;
+  top: 70%;
+  left: 20px;
+} */
+
+/* div {
+  width: 300px;
+  height: 200px;
+  display: inline-block;
+} */
+
+/* .parent {
+  background-color: red;
+  width: 400px;
+  height: 300px;
+  position: absolute;
+}
+
+.child {
+  width: 30px;
+  height: 30px;
+  background-color: rgb(0, 0, 255);
+  position: absolute;
+  right: 20px;
+} */
+
+/* .item3 {
+  background-color: green;
+} */
