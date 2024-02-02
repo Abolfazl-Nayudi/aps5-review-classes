@@ -1,0 +1,106 @@
+div {
+  /* width: 300px; */
+  /* height: 300px; */
+  /* background-color: red; */
+  /* transition-property: background-color, border-radius; */
+  /* transition-property: all; */
+  /* transition-duration: 1s; */
+  /* transition-delay: 2s; */
+  /* transition: all 1s 2s; */
+}
+
+/* div:hover {
+  background-color: blue;
+  border-radius: 50%;
+} */
+
+/* section {
+  width: 100%;
+  height: 800px;
+  background-color: pink;
+}
+
+section > div {
+  width: 100px;
+  height: 100px;
+  background-color: gray;
+  margin-bottom: 1rem;
+
+  transition: all 1s;
+}
+
+section:hover div {
+  margin-left: 50rem;
+}
+
+div:nth-of-type(1) {
+  transition-timing-function: linear;
+}
+div:nth-of-type(2) {
+  transition-timing-function: ease-in;
+}
+div:nth-of-type(3) {
+  transition-timing-function: ease-out;
+}
+div:nth-of-type(4) {
+  transition-timing-function: ease-in-out;
+}
+div:nth-of-type(5) {
+  transition-timing-function: steps(7);
+}
+div:nth-of-type(6) {
+  transition-timing-function: ease;
+}
+div:nth-of-type(7) {
+  transition-timing-function: cubic-bezier(0.76, -1.24, 1, -1.1);
+} */
+
+/* section {
+  width: 100%;
+  height: 800px;
+  background-color: pink;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */
+
+/* div {
+  width: 200px;
+  height: 300px;
+  background-color: rgb(235, 118, 88);
+  border-radius: 10px;
+  transition: all 0.2s ease-in-out;
+} */
+
+/* div:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 10px 20px rgba(128, 128, 128, 0.677);
+} */
+
+section:hover div {
+  /* background-color: blueviolet; */
+  /* border-radius: 50%; */
+  /* transform: rotateY(200deg); */
+  /* transform: rotateX(200deg); */
+  /* transform: rotate(150deg); */
+  /* transform: translateX(200px); */
+  /* transform: translateY(-200px); */
+  /* transform-origin: bottom; */
+  /* transform: skew(20deg, 60deg); */
+  /* background-color: rgba(128, 128, 128, 0.62); */
+
+  /* transform-origin: left; */
+
+  /* transform: perspective(500px) rotateY(-20deg); */
+}
+
+section {
+  width: 100%;
+  height: 800px;
+  /* background-color: pink;
+  background-image: url(./larg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center; */
+  /* background: pink url(./larg.jpg) no-repeat top left/cover; */
+}
