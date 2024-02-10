@@ -1,0 +1,68 @@
+.circle {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: gold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.circle > i {
+  font-size: 70px;
+  color: white;
+}
+
+.portfolio,
+.brands {
+  background-color: #f8f9fa;
+}
+
+/* .team-image {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: lightgray;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+*/
+.team-image > img {
+  width: 150px;
+  border-radius: 50%;
+  border: 5px solid lightgray;
+}
+
+.icon {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  background-color: #212529;
+  color: white;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: all 0.2s ease;
+}
+
+.icon:hover {
+  background-color: #212529b9;
+}
+
+.brand-image > img {
+  height: 44px;
+}
+
+.contact {
+  background-image: url(./assets/img/mapimage.png);
+  background-color: #212529;
+}
+
+@media (min-width: 576px) {
+  textarea {
+    width: 250px !important;
+  }
+}
